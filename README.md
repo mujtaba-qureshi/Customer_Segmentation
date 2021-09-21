@@ -4,7 +4,8 @@ Creating Customer Segmentation Using Unsupervised Learning (Clustering)
 ## Project Introduction
 This project is based on real-life data provided to Udacity by their Bertelsmann partners AZ Direct and Arvato Finance Solution. 
 The data here concerns a company that performs mail-order sales in Germany. 
-The ***objective** of the project is to:
+The **objective** of the project is to:
+
 _identify facets of the population that are most likely to be purchasers of the company's products for a mailout campaign_ 
 
 ## Library Requirements
